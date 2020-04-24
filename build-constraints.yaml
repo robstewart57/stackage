@@ -28,6 +28,7 @@ packages:
 
     "Rob Stewart <robstewart57@gmail.com> @robstewart57":
         - gitlab-haskell
+        - rdf4h
 
     "Callan McGill <callan.mcgill@gmail.com> @callanmcgill":
         - perfect-vector-shuffle
